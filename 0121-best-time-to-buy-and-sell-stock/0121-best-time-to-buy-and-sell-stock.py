@@ -21,15 +21,10 @@ edge case: if the smallest value is the last value in the array, then we return 
         """
         small = prices[0]
         total = 0
-        index1 = 0
-        index2 = 0
 
         for index, value in enumerate(prices):
             if value <= small:
-                print("small value: ", value)
                 small = value
-                index1 = index
-                print("index 1: ,", index1)
             
             total = max(total, value - small)
             
