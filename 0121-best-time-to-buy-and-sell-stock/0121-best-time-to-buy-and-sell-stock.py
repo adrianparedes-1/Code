@@ -22,7 +22,7 @@ edge case: if the smallest value is the last value in the array, then we return 
         small = prices[0]
         total = 0
 
-        for index, value in enumerate(prices):
+        for value in prices:
             if value <= small:
                 small = value
             
