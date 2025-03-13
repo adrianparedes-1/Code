@@ -26,4 +26,12 @@ Leetcode Questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adrianparedes-1/Code/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adrianparedes-1/Code/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adrianparedes-1/Code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
