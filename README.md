@@ -22,4 +22,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adrianparedes-1/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/adrianparedes-1/Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
