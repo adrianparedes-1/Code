@@ -30,8 +30,10 @@ Leetcode Questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adrianparedes-1/Code/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/adrianparedes-1/Code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adrianparedes-1/Code/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/adrianparedes-1/Code/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
